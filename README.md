@@ -47,7 +47,7 @@ I am a **Computer Science B.S. graduate** from the University of Central Florida
 
 ### 📬 Let's Connect
 - **LinkedIn**: [linkedin.com/in/johnathanluong](#)
-- **Portfolio**: [React Portfolio](https://johnathanluong.github.io/react-portfolio/)]
+- **Portfolio**: [React Portfolio](https://johnathanluong.github.io/react-portfolio/)
 - **Email**: johnluong818@gmail.com
 ---
 
