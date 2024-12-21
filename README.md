@@ -14,7 +14,7 @@ I am a **Computer Science B.S. graduate** from the University of Central Florida
 ---
 
 ### 📚 Current Goals
-- **Learning**: Exploring **Swift** and **Kotlin** for cross-platform development.
+- **Learning**: Exploring **Django** and **React** for full-stack development.
 - **Building**: Working on a habit-tracking app with a theme of capybaras.
 - **Playing**: Currently playing(addicted) to Teamfight Tactics**! 
 
