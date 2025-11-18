@@ -1,22 +1,17 @@
-## Hi there, I'm Johnathan Luong! <img src="https://slackmojis.com/emojis/92692-wave-fast/download">
+## Hi there, I'm Johnathan Tuong Luong! <img src="https://slackmojis.com/emojis/92692-wave-fast/download">
 
 ### 😄 About Me
-I am a **Computer Science B.S. graduate** from the University of Central Florida. Passionate in creating high-impact projects that improve the lives of the everyday person and pushing the boundary forward. I'm primarily interested in full-stack development.
+I am a **Software Engineer** @ Lockheed Martin and a **Computer Science B.S. graduate** from the University of Central Florida. Passionate in creating high-impact projects that improve the lives of the everyday person and pushing the boundary forward. I'm primarily interested in application development with C++.
 
 Check out Capy Habits [here!](https://capy-habit.up.railway.app/)
 
 ### 🛠️ Tech Stack
-- **Languages**: TypeScript, JavaScript, Python, Java, C#, SQL
-- **Databases**: MySQL, MongoDB, PostgreSQL, AWS DynamoDB
+- **Languages**: TypeScript, C++, Python
 - **Frameworks & Libraries**: React, React Native, Django, Next.js
-- **Tools**: Git, Figma, Android Studio, AWS, Unity
-- **Other Skills**: RESTful APIs, AGILE
+- **Tools**: Git, Docker, AWS, Unity
 
 ### 📚 Current Goals
-- **Learning**: Exploring **Django** and **Next.js** for full-stack development.
-- **Organizing**: Plan to use more Notion and Todoist to keep track of my life!
-- **Playing**: Currently playing(addicted) to **Teamfight Tactics**! 
-
+- **Learning**: Deep diving into C++ land
 
 ### ⚡ Fun Facts
 - RPG enjoyer and Fighting Game apologist.
